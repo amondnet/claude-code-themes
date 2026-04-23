@@ -26,16 +26,16 @@ Curated collection of popular editor-inspired color themes for [Claude Code](htt
 
 ## Install
 
-### Option 1 — as a Claude Code plugin
+### Option 1 — as a Claude Code plugin (via marketplace)
 
-Add this repository as a plugin so themes load automatically on every session.
+This repo is a self-hosted plugin marketplace. Add it, then install the plugin:
 
-```bash
-# Example (adjust to your marketplace / source):
-/plugin install amondnet/claude-code-themes
+```text
+/plugin marketplace add amondnet/claude-code-themes
+/plugin install claude-code-themes@claude-code-themes
 ```
 
-Once installed, pick a theme in Claude Code with `/theme` and select e.g. `Dracula`.
+Once installed, pick a theme with `/theme` and select e.g. `Dracula`.
 
 ### Option 2 — copy individual themes
 
