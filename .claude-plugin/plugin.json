@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "claude-code-themes",
+  "version": "0.1.0",
+  "description": "Curated collection of popular editor-inspired color themes for Claude Code (2.1.118+).",
+  "author": {
+    "name": "Minsu Lee",
+    "url": "https://github.com/amondnet"
+  },
+  "homepage": "https://github.com/amondnet/claude-code-themes",
+  "repository": "https://github.com/amondnet/claude-code-themes",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "theme",
+    "themes",
+    "colorscheme",
+    "dracula",
+    "nord",
+    "tokyo-night",
+    "catppuccin",
+    "gruvbox",
+    "solarized",
+    "one-dark",
+    "rose-pine"
+  ],
+  "themes": "./themes/"
+}

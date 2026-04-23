@@ -1,0 +1,45 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-themes",
+  "description": "Curated collection of popular editor-inspired color themes for Claude Code (2.1.118+).",
+  "homepage": "https://github.com/amondnet/claude-code-themes",
+  "repository": "https://github.com/amondnet/claude-code-themes",
+  "owner": {
+    "name": "Minsu Lee",
+    "url": "https://github.com/amondnet"
+  },
+  "metadata": {
+    "version": "0.1.0",
+    "description": "Ten theme ports — Dracula, Tokyo Night, Nord, Catppuccin (Mocha/Latte), Gruvbox Dark, One Dark Pro, Rosé Pine, Solarized Light, GitHub Light."
+  },
+  "plugins": [
+    {
+      "name": "claude-code-themes",
+      "source": "./",
+      "description": "Ten editor-inspired color themes for Claude Code: Dracula, Tokyo Night, Nord, Catppuccin Mocha/Latte, Gruvbox Dark, One Dark Pro, Rosé Pine, Solarized Light, GitHub Light.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Minsu Lee",
+        "url": "https://github.com/amondnet"
+      },
+      "category": "theme",
+      "homepage": "https://github.com/amondnet/claude-code-themes",
+      "license": "MIT",
+      "keywords": [
+        "theme",
+        "themes",
+        "colorscheme",
+        "dracula",
+        "tokyo-night",
+        "nord",
+        "catppuccin",
+        "gruvbox",
+        "one-dark",
+        "rose-pine",
+        "solarized",
+        "github-light"
+      ],
+      "tags": ["theme", "ui", "colors"]
+    }
+  ]
+}
