@@ -1,0 +1,24 @@
+docs/references/claude-code-system-theme.md
+  ae3553048ed07485 1-559
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "9fc057b459f98f4b6554be6a266b3eba44f6d2ba",
+  "prompts": {
+    "ae3553048ed07485": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bde21fd0-47c0-494f-b9bc-7d819ddef6c9",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Minsu Lee",
+      "messages": [],
+      "total_additions": 1299,
+      "total_deletions": 101,
+      "accepted_lines": 559,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/01c776d2a0723100d161a4533a209b2f1f18bd747f4d585736032d24ab708c64"
+    }
+  }
+}
